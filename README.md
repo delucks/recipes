@@ -4,6 +4,6 @@ These are custom recipes that I've developed, or modifications of other recipes 
 
 ## Hot Sauces
 
-- [Chipotle Tomato](/recipes/sauce/chipotle_tomato)
-- [Pineapple Ginger](/recipes/sauce/pineapple_ginger)
-- [Sweet & Spicy Jalapeno Sauce](/recipes/sauce/sweet_jalapeno)
+- [Chipotle Tomato](/sauce/chipotle_tomato)
+- [Pineapple Ginger](/sauce/pineapple_ginger)
+- [Sweet & Spicy Jalapeno Sauce](/sauce/sweet_jalapeno)
