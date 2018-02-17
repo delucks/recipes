@@ -16,6 +16,10 @@ I hope you enjoy my food!
 
 - [Ginger-Lemon Tea](/beverages/ginger_lemon_tea)
 
+## Breakfast
+
+- [Pancakes](/breakfast/pancakes)
+
 ## Entree
 
 - [Chicken Seville](/entree/chicken_seville)
