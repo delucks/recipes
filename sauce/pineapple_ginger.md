@@ -1,31 +1,43 @@
 # Pineapple Ginger Hot Sauce
 
-AKA "The Jerk". This sauce is on the second revision. 
+AKA "The Jerk". This sauce is on the fourth revision.
 
 ## Ingredients
 
-- 1 medium-sized pineapple
-- 3 Habanero peppers
-- 2 Jalapeno peppers
-- Half a small yellow onion
-- 1 light cup ginger root (around 50g)
-- Grapeseed oil
-- 1/2 cup white vinegar
-- 1/2 tsp salt
-- 1/2 tsp cinnamon
-- 1/2 tsp nutmeg
-- Pinch star anise seeds
-- 1/4 tsp ginger powder
-- 3 peppercorn kernels
-- 1/2 tsp arrowroot starch
+### For the sauce
+
+| Ingredient      | Standard Measure | Weight |
+|:-----------     |:---------------- |:------ |
+| Pineapple       | One medium       | 950g   |
+| Habanero        | Three peppers    | 21g    |
+| Jalapeno        | Two peppers      | 67g    |
+| Ginger root     | One cup          | 66g    |
+| White onion     | Some             | 94g    |
+| Jerk mix (below)| 1/4 cup          | ~30g   |
+| White vinegar   | 3 cup            | ???    |
+
+
+### For the dry jerk
+
+| Ingredient      | Standard Measure |
+|:-----------     |:---------------- |
+| Salt            | 1/4tsp           |
+| Chipotle powder | 1 tsp            |
+| Garlic powder   | 2 tsp            |
+| Dried thyme     | 1 tbsp           |
+| Pepper flakes   | 1 tbsp           |
+| Paprika         | 1/2 tbsp         |
+| Ground cinnamon | 1/2 tsp          |
+| Allspice        | 1/4 cup          |
 
 ## Instructions
 
-Reserve 1/3 of the pineapple. Take this third, trim around the core and put it into a food processor. Process until pureed and whipped.
+Grind allspice and other whole ingredients into a fine powder. Mix together inside a container and shake to combine well.
 
-Chop the onion and remainder of the pineapple. Remove the stems from the peppers. Make sure to keep the seeds & inner material intact; they will give this sauce spiciness.
-Peel the ginger root with a spoon and cut it finely. Chop the peppers roughly; I did about 4 inch chunks.
+Peel the pineapple and core it. Cut it into smaller chunks and place it in a food processor, processing until completely pureed.
 
-Sautee the onion in a large saucepan with some grapeseed oil, adding the ginger when the onion is transparent. After the ginger becomes fragrant, add the peppers and dry seasonings. Stir continuously until you can smell the seasonings mixing in with the onion & ginger. Add the pineapple and vinegar. Bring this mixture to a boil then simmer for 15-20 minutes, stirring occasionally. Strain this mixture and return to the pot. On low heat, add arrowroot starch and pineapple puree, stir until combined. Taste and adjust the seasonings until it's perfect.
+Chop the onion finely and remove the tops from the peppers. Peel the ginger root using a spoon and chop it into inch-long strips. Put a splash of oil into a saucepan, heating it to medium. Add the onion and ginger, cook until the onion is transparent, stirring the whole time. Add the peppers and jerk mix, mixing thoroughly. When this becomes really fragrant, add the vinegar and bring to a boil.
 
-Refridgerate the resulting sauce; this recipe will keep in the fridge for several weeks.
+Boil this mixture for an hour to create the spicy vinegar. In a large mixing bowl, combine the pineapple puree and the spicy vinegar and mix well, immersion blending if necessary to remove chunks.
+
+Test pH of resulting sauce. If it's greater than 4, refridgerate the sauce. If it's less than four, the sauce will keep at room temperature for a few weeks.
