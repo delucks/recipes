@@ -10,7 +10,6 @@ I hope you enjoy my food!
 
 - [Mango Habanero](/sauce/mango_habanero)
 - [Chipotle Tomato](/sauce/chipotle_tomato)
-- [Pineapple Ginger](/sauce/pineapple_ginger)
 - [Sweet & Spicy Jalapeno Sauce](/sauce/sweet_jalapeno)
 
 ## Beverages
